@@ -18,6 +18,7 @@ to predict customer churn using Random Forest classification.
 
 ## Dataset
 Customer Churn dataset (CSV format) from Kaggle
+Dataset Link: 'https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn'
 
 ## Outcome
 Built an interpretable churn prediction model suitable for analytical and business insights.
